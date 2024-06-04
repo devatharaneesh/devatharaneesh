@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devatharaneesh
-- 👀 I’m interested in hackig 
+- 👀 I’m interested in hacking 
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
