@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devatharaneesh
+- 👋 Hi, I’m @tharaneeshdeva
 - 👀 I’m interested in hacking 
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on my self.
